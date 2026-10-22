@@ -95,7 +95,7 @@ For each font, it:
 Go to **Settings → Personalization → Fonts**, click the font, and choose **Uninstall**.
 
 ## Credits
-Created by **Rwan Hassan**, graphic designer and competitive programmer.
+Created by **Rwan Abdelsalam**, graphic designer and a programmer.
 Built with help from [Claude](https://claude.ai) by Anthropic.
 
 ## License
